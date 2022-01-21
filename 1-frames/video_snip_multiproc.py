@@ -61,7 +61,7 @@ if __name__ == '__main__':
     # obtain the necessary args
     parser = argparse.ArgumentParser()
     parser.add_argument("--dir_vid", help="Path to video folder",
-                        default="/data/CLASP-DATA/CLASP2-STEP/prepare_data/1-frames/videos")
+                        default="./videos")
     parser.add_argument("--dir_frames", help="Path to store frames",
                         default='./frames')
     parser.add_argument("--num_proc", type=int, default=8)
