@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>33</id>
+      <name>CPT360_Lane34PostAIT_08172020_Exp1</name>
+      <size>601</size>
+      <mode>interpolation</mode>
+      <overlap>5</overlap>
+      <bugtracker></bugtracker>
+      <created>2021-10-06 01:12:05.794227+00:00</created>
+      <updated>2021-10-06 21:33:02.097576+00:00</updated>
+      <start_frame>0</start_frame>
+      <stop_frame>9000</stop_frame>
+      <frame_filter>step=15</frame_filter>
+      <z_order>False</z_order>
+      <labels>
+        <label>
+          <name>touch_move</name>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+      <segments>
+        <segment>
+          <id>572</id>
+          <start>0</start>
+          <stop>600</stop>
+          <url>http://localhost:8080/?id=572</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>dan</username>
+        <email>luo.dan1@northeastern.edu</email>
+      </owner>
+      <assignee></assignee>
+      <original_size>
+        <width>1280</width>
+        <height>800</height>
+      </original_size>
+    </task>
+    <dumped>2021-10-07 01:39:54.333467+00:00</dumped>
+    <source>CPT360_Lane34PostAIT_08172020_Exp1.mp4</source>
+  </meta>
+  <track id="0" label="touch_move">
+    <box frame="2310" outside="0" occluded="0" keyframe="1" xtl="914.04" ytl="174.31" xbr="1213.20" ybr="624.17">
+    </box>
+    <box frame="2325" outside="1" occluded="0" keyframe="1" xtl="914.04" ytl="174.31" xbr="1213.20" ybr="624.17">
+    </box>
+  </track>
+  <track id="1" label="touch_move">
+    <box frame="4035" outside="0" occluded="0" keyframe="1" xtl="1019.67" ytl="216.42" xbr="1279.69" ybr="723.90">
+    </box>
+    <box frame="4050" outside="1" occluded="0" keyframe="1" xtl="1019.67" ytl="216.42" xbr="1279.69" ybr="723.90">
+    </box>
+  </track>
+  <track id="2" label="touch_move">
+    <box frame="4050" outside="0" occluded="0" keyframe="1" xtl="1033.70" ytl="201.64" xbr="1279.68" ybr="698.04">
+    </box>
+    <box frame="4065" outside="1" occluded="0" keyframe="1" xtl="1033.70" ytl="201.64" xbr="1279.68" ybr="698.04">
+    </box>
+  </track>
+  <track id="3" label="touch_move">
+    <box frame="4065" outside="0" occluded="0" keyframe="1" xtl="1013.02" ytl="218.63" xbr="1276.73" ybr="688.44">
+    </box>
+    <box frame="4080" outside="1" occluded="0" keyframe="1" xtl="1013.02" ytl="218.63" xbr="1276.73" ybr="688.44">
+    </box>
+  </track>
+  <track id="4" label="touch_move">
+    <box frame="4080" outside="0" occluded="0" keyframe="1" xtl="1006.37" ytl="195.73" xbr="1275.25" ybr="709.86">
+    </box>
+    <box frame="4095" outside="1" occluded="0" keyframe="1" xtl="1006.37" ytl="195.73" xbr="1275.25" ybr="709.86">
+    </box>
+  </track>
+  <track id="5" label="touch_move">
+    <box frame="4095" outside="0" occluded="0" keyframe="1" xtl="1025.58" ytl="216.42" xbr="1278.21" ybr="701.74">
+    </box>
+    <box frame="4110" outside="1" occluded="0" keyframe="1" xtl="1025.58" ytl="216.42" xbr="1278.21" ybr="701.74">
+    </box>
+  </track>
+  <track id="6" label="touch_move">
+    <box frame="5340" outside="0" occluded="0" keyframe="1" xtl="1026.32" ytl="308.01" xbr="1278.95" ybr="776.34">
+    </box>
+    <box frame="5355" outside="1" occluded="0" keyframe="1" xtl="1026.32" ytl="308.01" xbr="1278.95" ybr="776.34">
+    </box>
+  </track>
+  <track id="7" label="touch_move">
+    <box frame="5490" outside="0" occluded="0" keyframe="1" xtl="861.59" ytl="138.86" xbr="1176.27" ybr="615.31">
+    </box>
+    <box frame="5505" outside="1" occluded="0" keyframe="1" xtl="861.59" ytl="138.86" xbr="1176.27" ybr="615.31">
+    </box>
+  </track>
+  <track id="8" label="touch_move">
+    <box frame="5505" outside="0" occluded="0" keyframe="1" xtl="825.39" ytl="195.00" xbr="1220.59" ybr="696.57">
+    </box>
+    <box frame="5520" outside="1" occluded="0" keyframe="1" xtl="825.39" ytl="195.00" xbr="1220.59" ybr="696.57">
+    </box>
+  </track>
+  <track id="9" label="touch_move">
+    <box frame="8970" outside="0" occluded="0" keyframe="1" xtl="817.27" ytl="274.04" xbr="1248.66" ybr="732.02">
+    </box>
+    <box frame="8985" outside="1" occluded="0" keyframe="1" xtl="817.27" ytl="274.04" xbr="1248.66" ybr="732.02">
+    </box>
+  </track>
+  <track id="10" label="touch_move">
+    <box frame="8985" outside="0" occluded="0" keyframe="1" xtl="857.89" ytl="265.91" xbr="1242.75" ybr="702.48">
+    </box>
+    <box frame="9000" outside="1" occluded="0" keyframe="1" xtl="857.89" ytl="265.91" xbr="1242.75" ybr="702.48">
+    </box>
+  </track>
+  <track id="11" label="touch_move">
+    <box frame="9000" outside="0" occluded="0" keyframe="1" xtl="888.18" ytl="262.21" xbr="1222.81" ybr="703.95">
+    </box>
+    <box frame="9015" outside="1" occluded="0" keyframe="1" xtl="888.18" ytl="262.21" xbr="1222.81" ybr="703.95">
+    </box>
+  </track>
+</annotations>

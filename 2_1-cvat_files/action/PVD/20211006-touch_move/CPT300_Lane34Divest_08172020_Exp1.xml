@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>27</id>
+      <name>CPT300_Lane34Divest_08172020_Exp1</name>
+      <size>601</size>
+      <mode>interpolation</mode>
+      <overlap>5</overlap>
+      <bugtracker></bugtracker>
+      <created>2021-10-06 01:05:46.617542+00:00</created>
+      <updated>2021-10-06 19:35:15.358278+00:00</updated>
+      <start_frame>0</start_frame>
+      <stop_frame>9000</stop_frame>
+      <frame_filter>step=15</frame_filter>
+      <z_order>False</z_order>
+      <labels>
+        <label>
+          <name>touch_move</name>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+      <segments>
+        <segment>
+          <id>566</id>
+          <start>0</start>
+          <stop>600</stop>
+          <url>http://localhost:8080/?id=566</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>dan</username>
+        <email>luo.dan1@northeastern.edu</email>
+      </owner>
+      <assignee></assignee>
+      <original_size>
+        <width>1280</width>
+        <height>800</height>
+      </original_size>
+    </task>
+    <dumped>2021-10-07 00:16:06.524260+00:00</dumped>
+    <source>CPT300_Lane34Divest_08172020_Exp1.mp4</source>
+  </meta>
+  <track id="0" label="touch_move">
+    <box frame="165" outside="0" occluded="0" keyframe="1" xtl="159.83" ytl="587.98" xbr="580.15" ybr="798.50">
+    </box>
+    <box frame="180" outside="1" occluded="0" keyframe="1" xtl="159.83" ytl="587.98" xbr="580.15" ybr="798.50">
+    </box>
+  </track>
+  <track id="1" label="touch_move">
+    <box frame="645" outside="0" occluded="0" keyframe="1" xtl="991.60" ytl="275.51" xbr="1264.17" ybr="604.23">
+    </box>
+    <box frame="660" outside="1" occluded="0" keyframe="1" xtl="991.60" ytl="275.51" xbr="1264.17" ybr="604.23">
+    </box>
+  </track>
+  <track id="2" label="touch_move">
+    <box frame="660" outside="0" occluded="0" keyframe="1" xtl="944.32" ytl="271.08" xbr="1191.04" ybr="633.78">
+    </box>
+    <box frame="675" outside="1" occluded="0" keyframe="1" xtl="944.32" ytl="271.08" xbr="1191.04" ybr="633.78">
+    </box>
+  </track>
+  <track id="3" label="touch_move">
+    <box frame="870" outside="0" occluded="0" keyframe="1" xtl="837.21" ytl="307.28" xbr="1109.05" ybr="656.68">
+    </box>
+    <box frame="885" outside="1" occluded="0" keyframe="1" xtl="837.21" ytl="307.28" xbr="1109.05" ybr="656.68">
+    </box>
+  </track>
+  <track id="4" label="touch_move">
+    <box frame="975" outside="0" occluded="0" keyframe="1" xtl="687.99" ytl="335.35" xbr="1009.32" ybr="690.66">
+    </box>
+    <box frame="990" outside="1" occluded="0" keyframe="1" xtl="687.99" ytl="335.35" xbr="1009.32" ybr="690.66">
+    </box>
+  </track>
+  <track id="5" label="touch_move">
+    <box frame="1020" outside="0" occluded="0" keyframe="1" xtl="90.40" ytl="549.57" xbr="459.74" ybr="797.77">
+    </box>
+    <box frame="1035" outside="1" occluded="0" keyframe="1" xtl="90.40" ytl="549.57" xbr="459.74" ybr="797.77">
+    </box>
+  </track>
+  <track id="6" label="touch_move">
+    <box frame="1200" outside="0" occluded="0" keyframe="1" xtl="102.96" ytl="589.46" xbr="415.42" ybr="790.38">
+    </box>
+    <box frame="1215" outside="1" occluded="0" keyframe="1" xtl="102.96" ytl="589.46" xbr="415.42" ybr="790.38">
+    </box>
+  </track>
+  <track id="7" label="touch_move">
+    <box frame="1215" outside="0" occluded="0" keyframe="1" xtl="48.29" ytl="579.85" xbr="328.99" ybr="797.76">
+    </box>
+    <box frame="1230" outside="1" occluded="0" keyframe="1" xtl="48.29" ytl="579.85" xbr="328.99" ybr="797.76">
+    </box>
+  </track>
+  <track id="8" label="touch_move">
+    <box frame="1320" outside="0" occluded="0" keyframe="1" xtl="448.66" ytl="368.59" xbr="861.59" ybr="676.62">
+    </box>
+    <box frame="1335" outside="1" occluded="0" keyframe="1" xtl="448.66" ytl="368.59" xbr="861.59" ybr="676.62">
+    </box>
+  </track>
+  <track id="9" label="touch_move">
+    <box frame="1335" outside="0" occluded="0" keyframe="1" xtl="296.55" ytl="306.76" xbr="677.36" ybr="729.05">
+    </box>
+    <box frame="1350" outside="1" occluded="0" keyframe="1" xtl="296.55" ytl="306.76" xbr="677.36" ybr="729.05">
+    </box>
+  </track>
+  <track id="10" label="touch_move">
+    <box frame="1350" outside="0" occluded="0" keyframe="1" xtl="43.38" ytl="328.03" xbr="472.06" ybr="742.88">
+    </box>
+    <box frame="1365" outside="1" occluded="0" keyframe="1" xtl="43.38" ytl="328.03" xbr="472.06" ybr="742.88">
+    </box>
+  </track>
+  <track id="11" label="touch_move">
+    <box frame="3045" outside="0" occluded="0" keyframe="1" xtl="1048.25" ytl="337.43" xbr="1280.00" ybr="684.02">
+    </box>
+    <box frame="3060" outside="1" occluded="0" keyframe="1" xtl="1048.25" ytl="337.43" xbr="1280.00" ybr="684.02">
+    </box>
+  </track>
+  <track id="12" label="touch_move">
+    <box frame="3060" outside="0" occluded="0" keyframe="1" xtl="1034.07" ytl="326.79" xbr="1264.54" ybr="684.02">
+    </box>
+    <box frame="3075" outside="1" occluded="0" keyframe="1" xtl="1034.07" ytl="326.79" xbr="1264.54" ybr="684.02">
+    </box>
+  </track>
+  <track id="13" label="touch_move">
+    <box frame="3075" outside="0" occluded="0" keyframe="1" xtl="1003.05" ytl="317.93" xbr="1259.22" ybr="691.11">
+    </box>
+    <box frame="3090" outside="1" occluded="0" keyframe="1" xtl="1003.05" ytl="317.93" xbr="1259.22" ybr="691.11">
+    </box>
+  </track>
+  <track id="14" label="touch_move">
+    <box frame="3090" outside="0" occluded="0" keyframe="1" xtl="972.02" ytl="312.61" xbr="1239.72" ybr="688.45">
+    </box>
+    <box frame="3105" outside="1" occluded="0" keyframe="1" xtl="972.02" ytl="312.61" xbr="1239.72" ybr="688.45">
+    </box>
+  </track>
+  <track id="15" label="touch_move">
+    <box frame="4035" outside="0" occluded="0" keyframe="1" xtl="602.38" ytl="271.83" xbr="844.38" ybr="653.00">
+    </box>
+    <box frame="4050" outside="1" occluded="0" keyframe="1" xtl="602.38" ytl="271.83" xbr="844.38" ybr="653.00">
+    </box>
+  </track>
+  <track id="16" label="touch_move">
+    <box frame="4050" outside="0" occluded="0" keyframe="1" xtl="375.46" ytl="290.45" xbr="657.34" ybr="671.61">
+    </box>
+    <box frame="4065" outside="1" occluded="0" keyframe="1" xtl="375.46" ytl="290.45" xbr="657.34" ybr="671.61">
+    </box>
+  </track>
+  <track id="17" label="touch_move">
+    <box frame="4065" outside="0" occluded="0" keyframe="1" xtl="66.10" ytl="312.61" xbr="400.28" ybr="712.39">
+    </box>
+    <box frame="4080" outside="1" occluded="0" keyframe="1" xtl="66.10" ytl="312.61" xbr="400.28" ybr="712.39">
+    </box>
+  </track>
+  <track id="18" label="touch_move">
+    <box frame="4455" outside="0" occluded="0" keyframe="1" xtl="816.01" ytl="298.43" xbr="1138.67" ybr="713.27">
+    </box>
+    <box frame="4470" outside="1" occluded="0" keyframe="1" xtl="816.01" ytl="298.43" xbr="1138.67" ybr="713.27">
+    </box>
+  </track>
+  <track id="19" label="touch_move">
+    <box frame="4470" outside="0" occluded="0" keyframe="1" xtl="600.61" ytl="315.27" xbr="862.99" ybr="706.18">
+    </box>
+    <box frame="4485" outside="1" occluded="0" keyframe="1" xtl="600.61" ytl="315.27" xbr="862.99" ybr="706.18">
+    </box>
+  </track>
+  <track id="20" label="touch_move">
+    <box frame="4485" outside="0" occluded="0" keyframe="1" xtl="271.74" ytl="295.77" xbr="597.06" ybr="739.87">
+    </box>
+    <box frame="4500" outside="1" occluded="0" keyframe="1" xtl="271.74" ytl="295.77" xbr="597.06" ybr="739.87">
+    </box>
+  </track>
+  <track id="21" label="touch_move">
+    <box frame="4500" outside="0" occluded="0" keyframe="1" xtl="36.84" ytl="338.32" xbr="327.59" ybr="738.98">
+    </box>
+    <box frame="4515" outside="1" occluded="0" keyframe="1" xtl="36.84" ytl="338.32" xbr="327.59" ybr="738.98">
+    </box>
+  </track>
+  <track id="22" label="touch_move">
+    <box frame="6135" outside="0" occluded="0" keyframe="1" xtl="1030.53" ytl="304.63" xbr="1260.11" ybr="606.02">
+    </box>
+    <box frame="6150" outside="1" occluded="0" keyframe="1" xtl="1030.53" ytl="304.63" xbr="1260.11" ybr="606.02">
+    </box>
+  </track>
+  <track id="23" label="touch_move">
+    <box frame="6150" outside="0" occluded="0" keyframe="1" xtl="823.99" ytl="269.17" xbr="1175.01" ybr="613.99">
+    </box>
+    <box frame="6165" outside="1" occluded="0" keyframe="1" xtl="823.99" ytl="269.17" xbr="1175.01" ybr="613.99">
+    </box>
+  </track>
+  <track id="24" label="touch_move">
+    <box frame="6165" outside="0" occluded="0" keyframe="1" xtl="663.54" ytl="302.86" xbr="1054.46" ybr="613.11">
+    </box>
+    <box frame="6180" outside="1" occluded="0" keyframe="1" xtl="663.54" ytl="302.86" xbr="1054.46" ybr="613.11">
+    </box>
+  </track>
+  <track id="25" label="touch_move">
+    <box frame="6180" outside="0" occluded="0" keyframe="1" xtl="394.96" ytl="322.36" xbr="853.24" ybr="635.27">
+    </box>
+    <box frame="6195" outside="1" occluded="0" keyframe="1" xtl="394.96" ytl="322.36" xbr="853.24" ybr="635.27">
+    </box>
+  </track>
+  <track id="26" label="touch_move">
+    <box frame="6195" outside="0" occluded="0" keyframe="1" xtl="155.62" ytl="347.18" xbr="617.45" ybr="666.29">
+    </box>
+    <box frame="6210" outside="1" occluded="0" keyframe="1" xtl="155.62" ytl="347.18" xbr="617.45" ybr="666.29">
+    </box>
+  </track>
+  <track id="27" label="touch_move">
+    <box frame="6210" outside="0" occluded="0" keyframe="1" xtl="97.12" ytl="363.13" xbr="496.90" ybr="720.36">
+    </box>
+    <box frame="6225" outside="1" occluded="0" keyframe="1" xtl="97.12" ytl="363.13" xbr="496.90" ybr="720.36">
+    </box>
+  </track>
+  <track id="28" label="touch_move">
+    <box frame="6225" outside="0" occluded="0" keyframe="1" xtl="72.30" ytl="365.79" xbr="465.87" ybr="744.30">
+    </box>
+    <box frame="6240" outside="1" occluded="0" keyframe="1" xtl="72.30" ytl="365.79" xbr="465.87" ybr="744.30">
+    </box>
+  </track>
+  <track id="29" label="touch_move">
+    <box frame="6465" outside="0" occluded="0" keyframe="1" xtl="120.61" ytl="362.60" xbr="390.08" ybr="713.63">
+    </box>
+    <box frame="6480" outside="1" occluded="0" keyframe="1" xtl="120.61" ytl="362.60" xbr="390.08" ybr="713.63">
+    </box>
+  </track>
+  <track id="30" label="touch_move">
+    <box frame="7455" outside="0" occluded="0" keyframe="1" xtl="276.18" ytl="400.37" xbr="697.23" ybr="766.46">
+    </box>
+    <box frame="7470" outside="1" occluded="0" keyframe="1" xtl="276.18" ytl="400.37" xbr="697.23" ybr="766.46">
+    </box>
+  </track>
+  <track id="31" label="touch_move">
+    <box frame="7470" outside="0" occluded="0" keyframe="1" xtl="230.08" ytl="347.18" xbr="602.38" ybr="752.28">
+    </box>
+    <box frame="7485" outside="1" occluded="0" keyframe="1" xtl="230.08" ytl="347.18" xbr="602.38" ybr="752.28">
+    </box>
+  </track>
+  <track id="32" label="touch_move">
+    <box frame="7485" outside="0" occluded="0" keyframe="1" xtl="112.19" ytl="382.64" xbr="518.17" ybr="750.50">
+    </box>
+    <box frame="7500" outside="1" occluded="0" keyframe="1" xtl="112.19" ytl="382.64" xbr="518.17" ybr="750.50">
+    </box>
+  </track>
+  <track id="33" label="touch_move">
+    <box frame="7725" outside="0" occluded="0" keyframe="1" xtl="987.98" ytl="309.06" xbr="1273.41" ybr="729.23">
+    </box>
+    <box frame="7740" outside="1" occluded="0" keyframe="1" xtl="987.98" ytl="309.06" xbr="1273.41" ybr="729.23">
+    </box>
+  </track>
+  <track id="34" label="touch_move">
+    <box frame="7740" outside="0" occluded="0" keyframe="1" xtl="962.27" ytl="258.54" xbr="1258.34" ybr="640.59">
+    </box>
+    <box frame="7755" outside="1" occluded="0" keyframe="1" xtl="962.27" ytl="258.54" xbr="1258.34" ybr="640.59">
+    </box>
+  </track>
+  <track id="35" label="touch_move">
+    <box frame="7755" outside="0" occluded="0" keyframe="1" xtl="823.10" ytl="270.06" xbr="1112.96" ybr="645.02">
+    </box>
+    <box frame="7770" outside="1" occluded="0" keyframe="1" xtl="823.10" ytl="270.06" xbr="1112.96" ybr="645.02">
+    </box>
+  </track>
+  <track id="36" label="touch_move">
+    <box frame="7770" outside="0" occluded="0" keyframe="1" xtl="611.25" ytl="272.72" xbr="950.75" ybr="669.84">
+    </box>
+    <box frame="7785" outside="1" occluded="0" keyframe="1" xtl="611.25" ytl="272.72" xbr="950.75" ybr="669.84">
+    </box>
+  </track>
+  <track id="37" label="touch_move">
+    <box frame="7785" outside="0" occluded="0" keyframe="1" xtl="342.66" ytl="258.54" xbr="714.07" ybr="676.04">
+    </box>
+    <box frame="7800" outside="1" occluded="0" keyframe="1" xtl="342.66" ytl="258.54" xbr="714.07" ybr="676.04">
+    </box>
+  </track>
+  <track id="38" label="touch_move">
+    <box frame="7890" outside="0" occluded="0" keyframe="1" xtl="49.25" ytl="528.90" xbr="441.05" ybr="792.02">
+    </box>
+    <box frame="7905" outside="1" occluded="0" keyframe="1" xtl="49.25" ytl="528.90" xbr="441.05" ybr="792.02">
+    </box>
+  </track>
+  <track id="39" label="touch_move">
+    <box frame="8805" outside="0" occluded="0" keyframe="1" xtl="1085.48" ytl="316.15" xbr="1278.73" ybr="646.79">
+    </box>
+    <box frame="8820" outside="1" occluded="0" keyframe="1" xtl="1085.48" ytl="316.15" xbr="1278.73" ybr="646.79">
+    </box>
+  </track>
+  <track id="40" label="touch_move">
+    <box frame="8820" outside="0" occluded="0" keyframe="1" xtl="877.17" ytl="301.09" xbr="1280.00" ybr="676.04">
+    </box>
+    <box frame="8835" outside="1" occluded="0" keyframe="1" xtl="877.17" ytl="301.09" xbr="1280.00" ybr="676.04">
+    </box>
+  </track>
+  <track id="41" label="touch_move">
+    <box frame="8835" outside="0" occluded="0" keyframe="1" xtl="566.48" ytl="271.30" xbr="1088.59" ybr="663.10">
+    </box>
+    <box frame="8850" outside="1" occluded="0" keyframe="1" xtl="566.48" ytl="271.30" xbr="1088.59" ybr="663.10">
+    </box>
+  </track>
+  <track id="42" label="touch_move">
+    <box frame="8850" outside="0" occluded="0" keyframe="1" xtl="309.86" ytl="303.75" xbr="760.17" ybr="648.57">
+    </box>
+    <box frame="8865" outside="1" occluded="0" keyframe="1" xtl="309.86" ytl="303.75" xbr="760.17" ybr="648.57">
+    </box>
+  </track>
+  <track id="43" label="touch_move">
+    <box frame="8865" outside="0" occluded="0" keyframe="1" xtl="53.68" ytl="309.06" xbr="472.08" ybr="663.63">
+    </box>
+    <box frame="8880" outside="1" occluded="0" keyframe="1" xtl="53.68" ytl="309.06" xbr="472.08" ybr="663.63">
+    </box>
+  </track>
+  <track id="44" label="touch_move">
+    <box frame="0" outside="0" occluded="0" keyframe="1" xtl="581.62" ytl="306.54" xbr="898.52" ybr="698.04">
+    </box>
+    <box frame="15" outside="1" occluded="0" keyframe="1" xtl="581.62" ytl="306.54" xbr="898.52" ybr="698.04">
+    </box>
+  </track>
+</annotations>
