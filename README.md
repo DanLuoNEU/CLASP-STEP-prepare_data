@@ -1,13 +1,13 @@
 # README
-usage file for **T. A. Rupprech**t's CVML-tool's dataset maker 03/23/2020
+README file for Preparing all files needed for STEP-variant Action Detection Finetuning
 
 NOTE: Both **CVAT annotations** and the **described scripts** are needed to parse original data into an ava formatted dataset
 
-## 1. RGB Frames in sec format
-check ./frames/README.md
+## 1. RGB Frames in AVA sec format
+check ./1-frames/README.md
 
 ## 2. Action Annotations
-check ./labels/action/README.md
+check ./2-labels/action/README.md
 
 ## 3. Optical Flow files in sec format
 check ./flows/README.md
