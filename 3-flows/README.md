@@ -1,25 +1,28 @@
-Prepare Optical Flow file Folders listed in Annotations
-This should be done after the frames folders had been generated
+Prepare Optical Flow file Folders listed in Annotations. Optical Flow files are generated based on [FlowNet2](https://github.com/NVIDIA/flownet2-pytorch).
 
-
-https://github.com/NVIDIA/flownet2-pytorch
-# Prepared files
-1. environment flow.yml
-* possible bugs  
-    (1) ImportError: cannot import name 'imread'  
-    ```from scipy.misc import imread```  
-    It happens when imread is depreciated after version 1.2.0, just install version 1.1.0(@mahbubcseju https://stackoverflow.com/questions/15345790/scipy-misc-module-has-no-attribute-imread)  
-    ```pip install scipy==1.1.0```  
+# Prerequisite
+1. environment py36pt110-FlowNet2.yml 
+    - (*py36pt110* would be the name of conda environment)
 2. Generated frames folders
-3. Annotation file including all the annotations from train and val annotation files, name with xxx.txt
+
+    This should be done **AFTER** the frames folders had been generated
+
+3. Annotation file (.csv or .txt)
+
+    Includes all the annotations from train and val annotation files 
 
 # Prepare flow file folders
-1. Login to Trupprs account
-2. activate anaconda env flow
-3. Go to path /data/CLASP-DATA/CVML-Tools/flownet, check of_generate file, run code
+1. Set up FlowNet2 environment, go to FlowNet2 root(cloned from git link)
+2. Activate anaconda env py36pt110, follow the official installation guide
+3. Get pretrained FlowNet2 model under pretrained folder under FlowNet2 root
+4. Copy the 3-flows/gen_OF_AVA-annot.py to FlowNet2 root and run
 ```
-python of_generate.py path_to_annotations_file
+    python gen_OF_AVA-annot.py \
+    --path_annot /path/to/annotation_file \
+    --path_model /path/to/pretrained/FlowNet2 \
+    --dir_frames /path/to/frames \
+    --dir_flows /path/to/flows \
+    --num_proc number_of_subprocesses(also the GPUs utilized from GPU 0)
 ```
-
 # Visualize Flow Files
-/home/truppr/sandbox/clasp/flownet
+Check utils.flow_utils.visulize_flow_file(path_flow, /path/to/output/folder) for more details, also mentioned in 3-flows/gen_OF_AVA-annot.py line 130
