@@ -26,3 +26,5 @@ Prepare Optical Flow file Folders listed in Annotations. Optical Flow files are 
 ```
 # Visualize Flow Files
 Check utils.flow_utils.visulize_flow_file(path_flow, /path/to/output/folder) for more details, also mentioned in 3-flows/gen_OF_AVA-annot.py line 130
+
+\*  You can also copy run_a_pair_PILresize.py and gen_OF_AVA-annot_test.py and play with them, Good Luck!
